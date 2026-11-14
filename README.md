@@ -1,16 +1,16 @@
-## Hi there 👋
+# Miguel Ciudad
 
-<!--
-**mglciudad-sketch/mglciudad-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gestión de oficina y análisis financiero. Aplico IA a procesos de trabajo: automatización de informes, seguimiento y análisis.
 
-Here are some ideas to get you started:
+## Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [mercados-diarios](https://github.com/mglciudad-sketch/mercados-diarios): panel diario de cierres de IBEX 35, Euro Stoxx 50, S&P 500, Nasdaq 100 y MSCI World (Python).
+- [presupuesto](https://github.com/mglciudad-sketch/presupuesto): aplicación para iPhone de ingresos y gastos personales (JavaScript).
+
+## Formación
+
+Máster en IA aplicada a procesos productivos.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/miguel-ciudad-diaz)
